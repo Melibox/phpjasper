@@ -1,6 +1,6 @@
 {
-  "name": "lavela/phpjasper",
-  "description": "Gerador de relatórios PHP",
+  "name": "melibox/phpjasper",
+  "description": "Gerador de relatórios PHP phpjasper versa0 6.2",
   "license": "MIT",
   "keywords": [
     "relatórios",
